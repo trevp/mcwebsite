@@ -17,6 +17,7 @@ body {
 .callbox {
     position: relative;
     left: 50%;
+    width: 1px;
 }
 
 .call {
