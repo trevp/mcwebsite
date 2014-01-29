@@ -26,7 +26,7 @@ body {
     top: 140px;
     color: white;
     letter-spacing: 10px;
-    white-space: nowrap;
+    line-height: 1.9;
 }
 
 .info h2 {
